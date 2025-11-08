@@ -87,7 +87,6 @@
 * Зарядка tp4056 type-c 1a
 * Ик светодиоды 2x
 ---
-</head>
 <body>
 <div class="container">
 
@@ -164,8 +163,6 @@
 
 </div>
 </body>
-</html>
-
 ---
 
 
