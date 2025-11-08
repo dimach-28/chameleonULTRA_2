@@ -1,6 +1,6 @@
 # Chameleon Ultra 2
 
-![schematic](vid1.jpg)
+![schematic](vid1.jpg) ![schematic](vid2.jpg)
 
 Всем привет! Это мой проект **Chameleon Ultra 2** на Arduino.
 
